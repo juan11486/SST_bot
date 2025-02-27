@@ -10,4 +10,3 @@ __pycache__/
 # Archivos sensibles o temporales
 *.db
 .env
-turnos.db
